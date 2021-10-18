@@ -1,0 +1,7 @@
+title: walterlv
+author: walterlv
+
+deploy:
+  type: git
+  repo: https://github.com/aquced/417
+  branch: gh-pages # 默认使用 master 分支
