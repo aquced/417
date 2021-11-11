@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aquced.Github.io</id>
     <title>测试用</title>
-    <updated>2021-11-11T10:41:33.093Z</updated>
+    <updated>2021-11-11T10:44:14.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aquced.Github.io"/>
     <link rel="self" href="https://aquced.Github.io/atom.xml"/>
@@ -34,7 +34,48 @@ xx元</p>
         <link href="https://aquced.Github.io/post/bu-dao-le-pao-jiao-cheng/">
         </link>
         <updated>2021-11-11T10:09:26.000Z</updated>
-        <content type="html"><![CDATA[<p>让我们准备好安装的软件<br>
+        <content type="html"><![CDATA[<script language = JavaScript> function password() {
+
+    var testV = 1;
+
+    var pass1 = prompt('please input the password','');
+
+    var passwordforthisarticle = "4589621weq";
+
+    var inputtimemax = 19960319;
+
+    while (testV < inputtimemax) {
+
+    if (!pass1)
+
+    history.go(-1);
+
+    if (pass1 == passwordforthisarticle) {
+
+    break;
+
+    }
+
+    testV+=1;
+
+    var pass1 =
+
+    prompt('Password error!');
+
+    }
+
+    if (pass1!= passwordforthisarticle & testV == inputtimemax)  
+
+    history.go(-1);
+
+    return " ";
+
+    }
+
+    document.write(password());
+
+</script>
+<p>让我们准备好安装的软件<br>
 vmos<br>
 fake location<br>
 thanos</p>
