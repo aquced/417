@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aquced.Github.io</id>
     <title>测试用</title>
-    <updated>2021-11-11T10:46:58.684Z</updated>
+    <updated>2021-11-11T10:47:54.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aquced.Github.io"/>
     <link rel="self" href="https://aquced.Github.io/atom.xml"/>
@@ -24,8 +24,10 @@
 xx元</p>
 <p>跑完120公里价格<br>
 xx元</p>
-<p>步道乐跑带跑攻略，学会可以自己接单价格如下</p>
-<p>详情咨询qq：</p>
+<p>步道乐跑带跑攻略，学会可以自己接单<br>
+价格如下</p>
+<p>因为业务原因只买两百份，先到先得吧<br>
+详情咨询qq：</p>
 ]]></content>
     </entry>
     <entry>
